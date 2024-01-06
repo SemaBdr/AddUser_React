@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Fevzi Bodur",
+      "salary": "222",
+      "department": "Civil Engineer",
+      "id": 4
+    },
+    {
+      "name": "Sema Bodur",
+      "salary": "111",
+      "department": "11",
+      "id": 5
+    },
+    {
+      "name": "Meltem Yigit",
+      "salary": "333",
+      "department": "Test",
+      "id": 6
+    },
+    {
+      "name": "Deniz Arcak",
+      "salary": "222",
+      "department": "Singer",
+      "id": 7
+    }
+  ]
+}
